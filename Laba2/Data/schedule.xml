@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+	<lecture day="Monday" time="9:00" lecturer="John Smith" department="Computer Science" room="101">
+		<students>
+			<student name="Alice Johnson" group="CS-1" />
+			<student name="Bob Brown" group="CS-1" />
+			<student name="Charlie Green" group="CS-1" />
+		</students>
+	</lecture>
+	<lecture day="Monday" time="11:00" lecturer="Jane Doe" department="Mathematics" room="202">
+		<students>
+			<student name="Diana White" group="Math-1" />
+			<student name="Edward Black" group="Math-1" />
+			<student name="Fiona Blue" group="Math-1" />
+		</students>
+	</lecture>
+	<lecture day="Tuesday" time="10:00" lecturer="Alice Cooper" department="Physics" room="303">
+		<students>
+			<student name="George Gray" group="Phys-1" />
+			<student name="Hannah Yellow" group="Phys-1" />
+			<student name="Ian Violet" group="Phys-1" />
+			<student name="Julia Brown" group="Phys-1" />
+		</students>
+	</lecture>
+	<lecture day="Wednesday" time="14:00" lecturer="Michael Scott" department="Chemistry" room="404">
+		<students>
+			<student name="Kevin White" group="Chem-1" />
+			<student name="Linda Pink" group="Chem-1" />
+			<student name="Mona Red" group="Chem-1" />
+			<student name="Nina Orange" group="Chem-1" />
+		</students>
+	</lecture>
+	<lecture day="Friday" time="16:00" lecturer="Emily Green" department="Biology" room="505">
+		<students>
+			<student name="Oliver Black" group="Bio-1" />
+			<student name="Pauline Silver" group="Bio-1" />
+			<student name="Quincy Gold" group="Bio-1" />
+			<student name="Rachel Cyan" group="Bio-1" />
+			<student name="Sam Turquoise" group="Bio-1" />
+		</students>
+	</lecture>
+</schedule>
